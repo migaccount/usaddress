@@ -1,0 +1,6 @@
+<AddressCollection>
+  <AddressString><StreetNamePreType>Rt</StreetNamePreType> <StreetName>1322,</StreetName> <PlaceName>Parkesburg,</PlaceName> <StateName>PA</StateName> <ZipCode>19365"</ZipCode></AddressString>
+  <AddressString><StreetNamePreType>Rt</StreetNamePreType> <StreetName>10,</StreetName> <PlaceName>Parkesburg,</PlaceName> <StateName>PA</StateName> <ZipCode>19365"</ZipCode></AddressString>
+  <AddressString><StreetNamePreType>Rt</StreetNamePreType> <StreetName>12,</StreetName> <PlaceName>Parkesburg,</PlaceName> <StateName>PA</StateName> <ZipCode>19365"</ZipCode></AddressString>
+  <AddressString><StreetNamePreType>Route</StreetNamePreType> <StreetName>2</StreetName> <PlaceName>Parkesburg,</PlaceName> <StateName>PA</StateName> <ZipCode>19365"</ZipCode></AddressString>
+</AddressCollection>
